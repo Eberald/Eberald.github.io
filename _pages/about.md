@@ -9,11 +9,11 @@ redirect_from:
 
 I am a PhD student in Astrophysics and Cosmology at **SISSA** (Trieste, Italy 🇮🇹) and a Master student in High Performance Computing at **ICTP** (Trieste, Italy 🇮🇹).
 
-I study the ISM of high-redshift galaxies using ALMA and JWST data from the **ALPINE** and **CRISTAL** surveys. I model nebular and FIR emission lines
+I study the ISM of high-redshift galaxies using ALMA and JWST data (I am a member of **ALPINE-CRISTAL-JWST** collaboration). I model nebular and FIR emission lines
 with **CLOUDY** photoionization grids and derive main ISM physical properties through Bayesian inference.
 
-Alongside this, I am building a **spectroscopic module** for [GalaPy](https://github.com/TommasoRonconi/galapy), a galaxy SED modelling library,
-integrating Bayesian methods and AI agents to fit spectral energy distributions with nebular line emission.
+I am building a **spectroscopic module** for [GalaPy](https://github.com/TommasoRonconi/galapy), a galaxy SED modelling library,
+integrating Machine Learning Bayesian methods and AI agents to fit spectral energy distributions with nebular line emission.
 
 I am a member of the [GOTHA](https://gotha-1.jimdosite.com/) group at SISSA and of ALPINE-CRISTAL collaboration.
 
