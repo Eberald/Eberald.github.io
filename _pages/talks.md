@@ -30,6 +30,9 @@ mathjax: true
 
 ## Schools & Workshops
 
+* **AIPHY2: Bayesian Statistics**: *Doctoral school on Bayesian Statistics*
+  Gran Sasso Science Institute (GSSI), l'Aquila, Italy (Oct 2026)
+
 * **Summer School**: *"Statistics for Astronomers"*  
   Center for Astrostatistics at The Pennsylvania State University, PA, USA (Jun 2026)
 
