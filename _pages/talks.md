@@ -10,6 +10,9 @@ mathjax: true
 
 ## Seminars & Contributed Talks
 
+* **Contributed Talk**: *"Characterising the ISM at z~5 via joint [CII] and nebular-line modelling with a two-zone HII+PDR framework: what can and cannot be constrained"*  
+  Workshop: *The Future of PDR Modelling - Current Challenges and Next Steps*, Leiden, Netherlands (November 2026)
+
 * **Seminar**: *"A Panchromatic View of the Early ISM: Modelling UV, Optical, and FIR Lines at $z \sim 5$ connecting ALMA and JWST"*  
   *Astrophysics talk*, INAF-OAS Bologna, Italy (May 2026)
 
